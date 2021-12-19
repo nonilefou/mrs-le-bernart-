@@ -1,5 +1,6 @@
 {
     "name": "Mrs le bernart ",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
